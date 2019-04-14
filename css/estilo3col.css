@@ -1,0 +1,84 @@
+#menuprincipal{
+    width: 20%;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-color: brown;
+    border-style: solid;
+    float: left;
+}
+
+img#tamañoimg{
+margin-left: 25%;
+width: 550px;
+height: 250px;
+
+}
+#contenido{
+    width: 45%;       
+    border-width: 5px;
+    border-color: #924223;
+    border-style: solid;
+    float: left;
+    background-color: transparent;
+
+}
+#contenido2{
+    width: 29%;       
+    border-width: 5px;
+    border-color: #924223;
+    border-style: solid;
+    float: left;
+    background-color: transparent;
+    margin-left: 6px;
+    margin-top: 3px;
+    padding-left: 10px;
+    padding-right: 5px;
+
+}
+
+#ft{
+    height: 70%;
+    width: 98.6%;
+    margin-left: 2px;
+    border-width: 5px;
+    border-color: #924223;
+    border-style: solid;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    clear: both;
+}
+#tamaño{
+margin-left: 10%;
+    width: 420px;
+    height: 320px;
+    
+}
+.ubicacion{
+    margin-left: 6px;
+    margin-top: 3px;
+    padding-left: 10px;
+    padding-right: 5px;         
+}
+.im{
+background-image: url("file:///C:\Users\Malki\Desktop\HIPERMEDIAL\mipagina\imagenes\video-juegos1.jpg");
+background-repeat: repeat;
+background-color: transparent;
+background-position: top;
+    
+}
+#prt{
+border-color: #924223;
+border-style: solid;
+width: 98.8%;
+margin-left: 2px;
+margin-top: 5px;
+margin-right: 2px;
+}
+
+.tamañobod{
+border-width: 3px;
+border-color: #924223;
+border-style: solid;
+
+
+}

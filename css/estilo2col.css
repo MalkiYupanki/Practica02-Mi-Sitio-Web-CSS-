@@ -1,0 +1,77 @@
+#menuprincipal{
+            width: 23%;
+            margin-left: 2px;
+            margin-top: 2px;
+            border-color: #924223;
+            border-style: groove;
+            float: left;
+}
+img#tamañoimg{
+    margin-left: 25%;
+    width: 550px;
+    height: 250px;
+    
+}
+
+.tmñ{
+    width: 620px;
+    height: 320px;
+
+}
+#contenido{
+            width: 73.5%;       
+            border-width: 5px;
+            border-color: #924223;
+            border-style: solid;
+            float: left;
+            background-color: transparent;
+
+ }
+
+#ft{
+            height: 70%;
+            width: 98.6%;
+            margin-left: 2px;
+            margin-top: 15px;
+            border-width: 5px;
+            border-color: #924223;
+            border-style: groove;
+
+            clear: both;
+}
+#tamaño{
+    margin-left: 25%;
+            width: 420px;
+            height: 320px;
+            
+}
+.ubicacion{
+            margin-left: 6px;
+            margin-top: 3px;
+            padding-left: 10px;
+            padding-right: 5px;         
+}
+.im{
+    background-image: url("file:///C:\Users\Malki\Desktop\HIPERMEDIAL\mipagina\imagenes\video-juegos1.jpg");
+    background-repeat: repeat;
+    background-color: transparent;
+    background-position: top;
+            
+}
+#prt{
+    border-color: #924223;
+    border-style: groove;
+    width: 98.8%;
+    margin-left: 2px;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+
+.tamañobod{
+    border-width: 3px;
+    border-color: #924223;
+    border-style: groove;
+
+
+}
+        
