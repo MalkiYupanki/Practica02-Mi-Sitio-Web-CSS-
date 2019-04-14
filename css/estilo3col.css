@@ -2,9 +2,11 @@
     width: 20%;
     margin-left: 2px;
     margin-top: 2px;
-    border-color: brown;
+    border-color: aqua;
     border-style: solid;
+    background-color: aqua;
     float: left;
+    border-radius: 10px 10px 10px 10px;
 }
 
 img#tamañoimg{
@@ -16,19 +18,19 @@ height: 250px;
 #contenido{
     width: 45%;       
     border-width: 5px;
-    border-color: #924223;
+    border-color: aquamarine;
     border-style: solid;
     float: left;
-    background-color: transparent;
+    background-color: aqua;
 
 }
 #contenido2{
     width: 29%;       
     border-width: 5px;
-    border-color: #924223;
+    border-color: aqua;
     border-style: solid;
     float: left;
-    background-color: transparent;
+    background-color: aqua;
     margin-left: 6px;
     margin-top: 3px;
     padding-left: 10px;
@@ -41,8 +43,9 @@ height: 250px;
     width: 98.6%;
     margin-left: 2px;
     border-width: 5px;
-    border-color: #924223;
+    border-color: aquamarine;
     border-style: solid;
+    background-color: aqua;
     margin-bottom: 5px;
     margin-top: 10px;
     clear: both;
@@ -60,24 +63,26 @@ margin-left: 10%;
     padding-right: 5px;         
 }
 .im{
-background-image: url("file:///C:\Users\Malki\Desktop\HIPERMEDIAL\mipagina\imagenes\video-juegos1.jpg");
+    background-image: url("videojuegos.jpg");
 background-repeat: repeat;
 background-color: transparent;
 background-position: top;
+background-size: 20%;
     
 }
 #prt{
-border-color: #924223;
+border-color: aqua;
 border-style: solid;
 width: 98.8%;
 margin-left: 2px;
 margin-top: 5px;
 margin-right: 2px;
+background-color: black;
 }
 
 .tamañobod{
 border-width: 3px;
-border-color: #924223;
+border-color: aqua;
 border-style: solid;
 
 

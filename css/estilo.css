@@ -1,4 +1,30 @@
-h2{
+h1,h2{
     color: red;
-    text-transform: uppercase
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+    line-height: 2cm;
+    font-size: 18pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+footer{
+    font-size: 14pt; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color: black;
+}
+ul,ol{
+    color: yellowgreen;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
