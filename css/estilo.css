@@ -3,6 +3,10 @@ h1,h2{
     text-transform: uppercase;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+a h2{
+    color: white !important;
+}
 nav{
     line-height: 2cm;
     font-size: 18pt;
@@ -26,8 +30,26 @@ a:active{
     color: black;
 }
 ul,ol{
-    color: yellowgreen;
+     color: yellowgreen;
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    border: black solid;
+    border-color: black;
+    border-collapse: separate;
+ 
+}
+p b{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+input:focus{
+    border: 2px solid;
+    background: #f3f3f3;
+}
+aside p{
+    font-family: cursive;
 }

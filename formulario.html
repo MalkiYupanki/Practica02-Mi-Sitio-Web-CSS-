@@ -28,16 +28,21 @@
     <div id="contenido" class="ubicacion">
         <section>
             <form>
-                Nombre <input type="text" name="nombre" size="30" maxlength="100">
-                <br>
-                Email &nbsp;&nbsp;&nbsp; <input type="text" name="email" size="25" maxlength="100" value="@">
-                Mensaje
-                <br>
-                <textarea cols="30" rows="7" name="Mensaje"></textarea>
-                <br>
-                <input type="submit" value="Enviar">
-                &nbsp;
-                <input type="Reset" value="Borrar">
+                <fieldset>
+                    <legend>FORMULARIO</legend>
+                        
+                        <label for="nombre">Nombre</label>
+                        <input type="text" name="nombre"/>
+                        <br>
+                        <label for="email">EMAIL</label>
+                        <input type="text" name="nombre" value="@"/>
+                        <br>
+                        <label for="mensaje">Mensaje</label>
+                        <textarea cols="30" rows="7" name="Mensaje"></textarea>
+                        <br>
+                        <input class="btn" type="submit" value="Enviar">&nbsp;
+                        <input class="btn" type="Reset" value="Borrar">          
+                </fieldset>
             </form>
         </section>
 
