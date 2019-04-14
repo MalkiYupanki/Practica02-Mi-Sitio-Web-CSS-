@@ -9,6 +9,9 @@ nav{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+form{
+    line-height: 1cm;
+}
 footer{
     font-size: 14pt; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
