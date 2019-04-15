@@ -33,13 +33,18 @@ ul,ol{
      color: yellowgreen;
 }
 p{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 table{
     border: black solid;
     border-color: black;
-    border-collapse: separate;
+    border-collapse: collapse;
+    margin-left: 25%;
+    margin-bottom: 5%;
  
+}
+td,th{
+    border: 1px solid black;
 }
 p b{
     color: blue;
